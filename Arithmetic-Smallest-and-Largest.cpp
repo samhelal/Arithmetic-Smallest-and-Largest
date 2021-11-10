@@ -1,6 +1,6 @@
 /* (Arithmetic, Smallest and Largest) Write a program that
 inputs three integers from the keyboard and prints the sum,
-average, product, smallest and largest of these numbers. */
+average, product, smallest and largest of these numbers. (c++ how to program) */
 //program arithmetic and comparing three numbers 
 #include <iostream>
 using namespace std ;
